@@ -1,6 +1,6 @@
 # WEBSBML-TESTER
 
-# HOW TO RUN
+## HOW TO RUN
 First set up the python virtual environment with Tellurium:
 
 ```bash
@@ -22,7 +22,9 @@ npm run start
 
 Go to `localhost:3000` to use the project.
 
-## Demo
+## Demo
+https://github.com/user-attachments/assets/53398f1a-cfee-4964-81c1-5c402a71f4ff
+
 
 
 ## Notes
